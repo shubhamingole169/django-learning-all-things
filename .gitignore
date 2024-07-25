@@ -3,3 +3,6 @@ xyz
 
 #git command
 git_command.txt
+
+# databse file
+db.sqlite3
